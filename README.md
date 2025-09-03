@@ -1,98 +1,99 @@
-Victor
-Savytskiy
-Back-end Drupal developer      
+ # Viktor Savytskiy
 
+**Date of Birth:** 16.06.89  
+**LinkedIn:** [linkedin.com/in/viktor-savytskiy](https://www.linkedin.com/in/viktor-savytskiy)  
+**Drupal.org:** [drupal.org/u/viktor-savytskiy](https://www.drupal.org/u/viktor-savytskiy)
 
-ㅡ
-Professional 
-Summary
+---
 
-I am a PHP backend software engineer with 8 years of experience in web development. Also I designed applications based on popular PHP frameworks and CMS such as Symfony and Drupal.
-  I have
-  - good PHP skills with OOP experience. Experienced in implementing design patterns and conforming SOLID principles while developing
-  - ability to document technical solutions and to constructively share knowledge with less experienced team members
-  - basic understanding of the use of Docker, Gitlab CI/CD
-  - strong understanding of Git flow
-  - experience of working with general UX principles for web applications, including responsive and adaptive design principles
-  - knowledge of web markup, including HTML5, CSS3
-  - experience of working with javascript libraries, such as jQuery and React JS
-- experience of working in a multicultural team (Europe, USA mostly)
+## Summary
 
-ㅡ
-Skills
+Highly experienced and results-driven PHP Backend Software Engineer with 9 years of expertise in web development. Proven ability to design and implement robust applications using popular PHP frameworks and CMS like Symfony and Drupal. Adept at implementing design patterns, adhering to SOLID principles, and working within agile environments. Strong understanding of modern DevOps practices, including Docker, CI/CD pipelines, GitHub Actions, and Git flow. Experienced in collaborating with multicultural teams across various time zones.
 
-    • Programming Languages / Technologies: PHP, JavaScript, Apache Solr, Varnish
-    • Frameworks and library: Symfony, Drupal 7/8/9, Jquery, React JS, Redux, RabbitMQ
-    • Database: MySQL, PostgreSQL
-    • Other category: Git, PhpStorm, Xdebug, Docker, Composer, Jira
+---
 
-ㅡ
-Languages
+## Technical Skills
 
-    • English – upper intermediate
-    • Ukrainian – mother tongue
+*   **Programming Languages / Technologies:** PHP (OOP, Design Patterns, SOLID), JavaScript (ES6+), Bash Scripting, HTML5, CSS3, Apache Solr
+*   **Frameworks & Libraries:** Symfony, Drupal (7, 8, 9, 10), jQuery, React JS
+*   **Databases:** MySQL, PostgreSQL
+*   **Tools & Methodologies:** Git (Git flow), Docker, Composer, PhpStorm, Xdebug, Jira, GitLab CI/CD, GitHub Actions, AWS S3, Elastic Transcoder, Jenkins
+*   **DevOps/GitOps (Basic Understanding):** Kubernetes, Argo CD, Flux, IaC (Terraform), Helm, AWS, GCP
+*   **Other:** Responsive/Adaptive Design Principles, Web Markup
 
+---
 
-ㅡ
-Work Experience
+## Professional Experience
 
-SoftServe, Ukraine
+### Software Development Engineer | 1648 Factory, Ukraine
+*November 2021 – June 2024*
 
-Software Development Engineer
-December 2020 - September 2021
-Project: Informational, event website. Our team worked on bug fixes, support and developing new features.
-Responsibilities: 
-    • Project support, new features implementation
-    • Code review & refactoring, bug fixing, tasks estimation
-    • Participation with the team in all Scrum activities within a team
-    • Work in and with distributed teams (located in different time zones: Europe/Asia)
-Used technologies:
-    • PHP, Drupal, MySql, Symfony 
-    • GIT, Composer
-    • HTML. CSS, JavaScript, JQuery, React JS, JIRA
+**Project:** Multidomain Web Portal for Smart Home Devices Sales
+*   Spearheaded project support, new feature implementation, and extensive code review and refactoring.
+*   Successfully migrated the platform from Drupal 8 to Drupal 10, ensuring seamless transition and improved performance.
+*   Integrated AWS S3 with Elastic Transcoder for efficient media handling.
+*   Developed comprehensive e-commerce functionalities, contributing to a full-fledged online sales platform.
+*   Implemented full-text search capabilities using Apache Solr server and Facets API.
+*   Customized themes and worked with Twig templating engine to enhance user interface.
 
-DevCompany/Skilld
+**Technologies Used:** PHP, Drupal, MySQL, Symfony, AWS (S3, Elastic Transcoder), Git, Composer, Docker, HTML, CSS, JavaScript, jQuery, Jira.
 
-Software Development Engineer
-October 2015 - September 2019
-Project: Web application which shows structured  information, related to their proffesional activity. Allows users to communicate with each other trough internal chat.
-Responsibilities: 
-    • Configuring web application based on Drupal 8 CMS;
-    • Creating custom modules;
-    • Making deployment;
-Used technologies:
-    • Drupal 8, Open Social, Views, Taxonomy, Paragraphs, Search API, Git, Docker
-    • Composer, drush
+### Software Development Engineer | SoftServe, Ukraine
+*December 2020 – September 2021*
 
-Project: Intranet web application, which provides information and services to manage invoices, receipts, orders.
-Responsibilities: 
-    • Preparing API for front-end part of the site and to communicate with third-party services;
-    • Making integration with Rabbit MQ service to perform batch operations;
-    • Making upgrade from Symfony 2 to Symfony 3
-    • Fixing bugs
-    • Adjusting React components
-Used technologies:
-    • Symfony 2/3, React JS, Redux, Rabbit MQ, Git
+**Project:** Informational and Event Website
+*   Provided ongoing project support, bug fixing, and new feature implementation.
+*   Conducted code reviews and refactoring to maintain code quality and optimize performance.
+*   Actively participated in all Scrum activities, contributing to efficient team collaboration.
+*   Successfully worked with distributed teams across different time zones (Europe/Asia).
 
-Project: Web catalogue of recipes. Integrated with third party services for gathering needed information, ratings etc
-Responsibilities: 
-    • Working on support, fixing bugs
-    • Creating new features
-    • Refactoring
-Used technologies:
-    • Drupal 7, Views, Rules, Ctools plugin, Feeds, i18n, Solr, AMP, GIGYA, SOGEC, Nescook, GescoWedia, Bazaarvoice, Google Analytics, Google Tag Manager, Git, Drush
+**Technologies Used:** PHP, Drupal, MySQL, PostgreSQL, Symfony, Git, Composer, HTML, CSS, JavaScript, jQuery, React JS, Jira.
 
-Project: Platform to collect information about art objects for farther selling them on auction
-Responsibilities: 
-    • Setting up schema for Solr
-    • Improving search process
-Used technologies:
-    • Drupal 7, Apache Solr Search, Git, Drush
+### Software Development Engineer | DevCompany/Skilld, Ukraine
+*October 2015 – September 2019*
 
+**Project:** Professional Activity Web Application with Internal Chat
+*   Configured and customized web application based on Drupal 8 CMS.
+*   Developed custom modules to extend core functionality.
+*   Managed deployment processes for the web application.
 
-ㅡ
-Education
+**Technologies Used:** Drupal 8, Open Social, Views, Taxonomy, Paragraphs, Search API, Git, Docker, Composer, Drush.
 
-Specialist,
+**Project:** Intranet Web Application for Invoice/Receipt/Order Management
+*   Prepared APIs for front-end integration and communication with third-party services.
+*   Integrated with RabbitMQ for efficient batch operations.
+*   Successfully upgraded the application from Symfony 2 to Symfony 3.
+*   Performed bug fixes and adjusted React components to meet project requirements.
+
+**Technologies Used:** Symfony 2/3, React JS, Redux, RabbitMQ, Git.
+
+**Project:** Web Catalogue of Recipes
+*   Provided support, fixed bugs, and developed new features for the platform.
+*   Performed refactoring to improve code structure and maintainability.
+
+**Technologies Used:** Drupal 7, Views, Rules, Ctools, Feeds, i18n, Solr, AMP, GIGYA, SOGEC, Nescook, GescoWedia, Bazaarvoice, Google Analytics, Google Tag Manager, Git, Drush.
+
+**Project:** Art Object Information and Auction Platform
+*   Set up schema for Apache Solr to optimize search functionality.
+*   Improved the search process, enhancing user experience.
+
+**Technologies Used:** Drupal 7, Apache Solr Search, Git, Drush.
+
+---
+
+## Education
+
+**National Food Technology University, Kyiv, Ukraine**
+*Specialist*
 Graduated in 2011
-National Food Technology University, Kyiv, Ukraine
+
+---
+
+## Languages
+
+*   **Ukrainian:** Native
+*   **English:** Upper-Intermediate
+
+## Hobbies
+
+Hiking, cycling, and other outdoor activities.
