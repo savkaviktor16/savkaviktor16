@@ -8,7 +8,7 @@
 
 ## Summary
 
-Highly experienced and results-driven PHP Backend Software Engineer with 9 years of expertise in web development. Proven ability to design and implement robust applications using popular PHP frameworks and CMS like Symfony and Drupal. Adept at implementing design patterns, adhering to SOLID principles, and working within agile environments. Strong understanding of modern DevOps practices, including Docker, CI/CD pipelines, GitHub Actions, and Git flow. Experienced in collaborating with multicultural teams across various time zones.
+Highly experienced and results-driven PHP Backend Software Engineer with 10+ years of expertise in web development. Proven ability to design and implement robust applications using popular PHP frameworks and CMS like Symfony and Drupal. Adept at implementing design patterns, adhering to SOLID principles, and working within agile environments. Strong understanding of modern DevOps practices, including Docker, CI/CD pipelines, GitHub Actions, and Git flow. Experienced in collaborating with multicultural teams across various time zones.
 
 ---
 
