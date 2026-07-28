@@ -1,8 +1,8 @@
  # Viktor Savytskyi
 
 **Date of Birth:** 16.06.89  
-**LinkedIn:** [linkedin.com/in/viktor-savytskiy](https://www.linkedin.com/in/viktor-savytskyi)  
-**Drupal.org:** [drupal.org/u/viktor-savytskiy](https://www.drupal.org/u/viktor-savytskyi)
+**LinkedIn:** [linkedin.com/in/viktor-savytskyi](https://www.linkedin.com/in/viktor-savytskyi)  
+**Drupal.org:** [drupal.org/u/viktor-savytskyi](https://www.drupal.org/u/viktor-savytskyi)
 
 ---
 
