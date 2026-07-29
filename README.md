@@ -111,8 +111,4 @@ Graduated in 2011
 ## Languages
 
 *   **Ukrainian:** Native
-*   **English:** Upper-Intermediate
-
-## Hobbies
-
-Hiking, cycling, and other outdoor activities.
+*   **English:** Professional
